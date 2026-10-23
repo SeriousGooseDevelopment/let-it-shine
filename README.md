@@ -1,8 +1,8 @@
 # Let It Shine Detailing
 
-Premium static HTML/CSS/JS redesign for Let It Shine Detailing in Pella, Iowa, with a cleaner studio-inspired layout, curated original work photos, and restrained motion.
+Premium static HTML/CSS/JS redesign for Let It Shine Detailing in Pella, Iowa, with a welcoming local-business feel, curated original work photos, and restrained motion.
 
-The experience uses a minimal automotive-studio direction: clean editorial typography, graphite and warm-neutral surfaces, a muted gold accent, result-led service pathways, trust proof, a progressive estimate form, responsive navigation, and a full 140-image gallery. Motion is limited to native anchor scrolling and small interface feedback.
+The experience pairs clear, confident typography with warm neutral surfaces, the shop's yellow accent, local-owner messaging, result-led service pathways, trust proof, a progressive estimate form, responsive navigation, and the full 140-image gallery. Motion is limited to native anchor scrolling and small interface feedback.
 
 ## Run locally
 
